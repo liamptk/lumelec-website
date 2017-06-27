@@ -1,0 +1,25 @@
+/* Colours blue: #4ABDAC; orange: #FC4A1A yellow: #F7B733 clean: #DFDCE3 logo: #00b9ef logo-two: #009ce6 */
+
+body {
+	background-color: #009ce6;
+}
+
+h1 {
+	color: white;
+}
+
+/* navbar*/
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.red{
+    color:red;
+    }
+.form-area
+{
+    background-color: white;
+	padding: 0px 40px 49px;
+	margin: 0px 0px 0px;
+	border: 1px solid #DFDCE3;
+	}
