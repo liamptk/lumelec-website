@@ -9,17 +9,58 @@ h1 {
 }
 
 /* navbar*/
+.navbar-nav {
+	float: right;
+}
+
 .navbar-inverse .navbar-brand {
 	color: white;
 }
 
+.navbar-brand {
+	font-size: 1.5em !important;
+}
+
+.nav a{
+    color: white !important;
+    font-size: 1.5em !important;
+    }
+
 .red{
     color:red;
     }
-.form-area
-{
+	
+	
+/* Slider */
+
+.carousel-control.left {
+	background-image: none;
+}
+
+.carousel-control.right {
+	background-image: none;
+}
+
+.form-area {
     background-color: white;
 	padding: 0px 40px 49px;
 	margin: 0px 0px 0px;
 	border: 1px solid #DFDCE3;
 	}
+	
+	
+/* Services */
+
+.services {
+	color: white;
+}
+
+.services-icon {
+	color: #f0f905;
+}
+	
+@media (max-width: 768px) {
+.navbar-nav {
+	float: left;
+}
+}
