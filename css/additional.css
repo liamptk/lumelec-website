@@ -58,6 +58,10 @@ h1 {
 .services-icon {
 	color: #f0f905;
 }
+
+.services-icon-alternate {
+	color: #FC4A1A;
+}
 	
 @media (max-width: 768px) {
 .navbar-nav {
