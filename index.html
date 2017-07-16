@@ -42,6 +42,9 @@ $(document).ready(function(){
 	<!-- Additional CSS -->
 	<link href="css/additional.css" rel="stylesheet">
 
+	<!-- Captcha -->
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+	
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -164,8 +167,7 @@ $(document).ready(function(){
 								<div class="form-group">
 								<textarea class="form-control" type="textarea" id="message" placeholder="Message" maxlength="140" rows="7"></textarea>                   
 								</div>
-						
-					<button type="button" id="submit" name="submit" class="btn pull-right" style="background-color: #009ce6; border=white; color: white;">Submit Form</button>
+					<button type="button" id="submit" name="submit" class="btn pull-right g-recaptcha" data-sitekey="6Lc3RSkUAAAAAEzwkQQK7riO5vMNy_AQJl4fw5lK" data-callback="YourOnSubmitFn" style="background-color: #009ce6; border=white; color: white;">Submit Form</button>
 					</form>
 				</div>
             </div>
