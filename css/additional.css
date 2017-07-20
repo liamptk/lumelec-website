@@ -1,11 +1,19 @@
 /* Colours blue: #4ABDAC; orange: #FC4A1A yellow: #F7B733 clean: #DFDCE3 logo: #00b9ef logo-two: #009ce6 */
 
 body {
-	background-color: #009ce6;
+	background-color: white;
 }
 
 h1 {
-	color: white;
+	color: #009ce6;
+}
+
+p {
+	color: #009ce6;
+}
+
+a {
+	color: #009ce6;
 }
 
 /* navbar*/
@@ -43,7 +51,7 @@ h1 {
 
 .form-area {
     background-color: white;
-	padding: 0px 40px 35px;
+	padding: 0px 40px 75px;
 	margin: 0px 0px 0px;
 	border: 1px solid #DFDCE3;
 	}
@@ -52,15 +60,16 @@ h1 {
 /* Services */
 
 .services {
-	color: white;
+	color: #009ce6;
+	font-size: 20px;
 }
 
 .services-icon {
-	color: #f0f905;
+	color: #009ce6;
 }
 
 .services-icon-alternate {
-	color: #FC4A1A;
+	color: #009ce6;
 }
 	
 @media (max-width: 768px) {
