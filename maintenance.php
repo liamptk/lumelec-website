@@ -1,8 +1,13 @@
+<?php 
+$pageTitle = 'Lumelec Services';
+$pageDescription = 'Maintenance';
+include_once('header.php');
+?>
 <!-- Related Projects Row -->
         <div class="row">
 
             <div class="col-lg-12">
-                <h1 class="page-header" style="color:#009ce6;">Services we offer...</h1>
+                <h1 class="page-header" style="color:#009ce6;">Maintenance...</h1>
             </div>
 
             <div class="col-sm-3 col-xs-6 text-center">
@@ -29,7 +34,7 @@
 				   <h2 class="services-icon"> Maintenance </h2>
 				   </a>
 				   <p class="services"> At Lumelec we provide a second to none installation service. Anything from changing a light switch to a complete rewire whilst ensuring all our work is fully certified and Part P compliant. </p>
-					<a href="maintenance.php" class="btn btn-info" role="button">Read More</a>
+					<a href="#" class="btn btn-info" role="button">Read More</a>
             </div>
 
             <div class="col-sm-3 col-xs-6 text-center">
@@ -45,7 +50,4 @@
         <!-- /.row -->
 
         <hr>
-	<?php include 'footer.php'; ?>
-    <!-- /.container -->
-
-
+<?php include_once('footer.php') ?>
