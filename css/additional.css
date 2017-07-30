@@ -54,14 +54,15 @@ a {
 	padding: 0px 40px 75px;
 	margin: 0px 0px 0px;
 	border: 1px solid #DFDCE3;
+	box-shadow: 5px 5px 5px grey;
 	}
 	
 	
 /* Services */
 
 .services {
-	color: #009ce6;
-	font-size: 20px;
+	color: black;
+	font-size: 18px;
 }
 
 .services-icon {
