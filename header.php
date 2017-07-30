@@ -173,81 +173,11 @@ $(document).ready(function(){
 								<div class="form-group">
 								<textarea class="form-control" type="textarea" id="message" placeholder="Message" maxlength="140" rows="5"></textarea>                   
 								</div>
-					<button href="#" type="button" id="submit" name="submit" class="btn pull-right g-recaptcha" data-sitekey="6Lc3RSkUAAAAAEzwkQQK7riO5vMNy_AQJl4fw5lK" data-callback="YourOnSubmitFn" style="background-color: #009ce6; border=white; color: white; padding-bottom:5px;">Submit Form</button>
+					<button href="#" type="button" value="submit" id="submit" name="submit" class="btn pull-right g-recaptcha" data-sitekey="6Lc3RSkUAAAAAEzwkQQK7riO5vMNy_AQJl4fw5lK" data-callback="YourOnSubmitFn" style="background-color: #009ce6; border=white; color: white; padding-bottom:5px;">Submit Form</button>
 					</form>
 				</div>
             </div>
 
         </div>
-        <!-- /.row -->
-
-        <!-- Related Projects Row -->
-        <div class="row">
-
-            <div class="col-lg-12">
-                <h1 class="page-header" style="color:#009ce6;">Services we offer...</h1>
-            </div>
-
-            <div class="col-sm-3 col-xs-6 text-center">
-                <a href="#">
-                   <i class="fa fa-cogs fa-5x services-icon" aria-hidden="true"></i>
-				   <h2 class="services-icon"> Installation </h2>
-				   </a>
-				   <p class="services"> At Lumelec we provide a second to none installation service. Anything from changing a light switch to a complete rewire whilst ensuring all our work is fully certified and Part P compliant. </p>         
-				   <a href="#" class="btn btn-info" role="button">Read More</a>
-            </div>
-
-            <div class="col-sm-3 col-xs-6 text-center">
-                <a href="#">
-                   <i class="fa fa-check fa-5x services-icon" aria-hidden="true"></i>
-				   <h2 class="services-icon"> Inspect & Test</h2>
-				   </a>
-				   <p class="services"> At Lumelec we provide a second to none installation service. Anything from changing a light switch to a complete rewire whilst ensuring all our work is fully certified and Part P compliant. </p>
-					<a href="#" class="btn btn-info" role="button">Read More</a>
-            </div>
-
-            <div class="col-sm-3 col-xs-6 text-center">
-                <a href="#">
-                   <i class="fa fa-flash fa-5x services-icon" aria-hidden="true"></i>
-				   <h2 class="services-icon"> Maintenance </h2>
-				   </a>
-				   <p class="services"> At Lumelec we provide a second to none installation service. Anything from changing a light switch to a complete rewire whilst ensuring all our work is fully certified and Part P compliant. </p>
-					<a href="#" class="btn btn-info" role="button">Read More</a>
-            </div>
-
-            <div class="col-sm-3 col-xs-6 text-center">
-                <a href="#">
-                   <i class="fa fa-moon-o fa-5x services-icon" aria-hidden="true"></i>
-				   <h2 class="services-icon"> 24 Hour Call Out </h2>
-				   </a>
-				   <p class="services"> At Lumelec we provide a second to none installation service. Anything from changing a light switch to a complete rewire whilst ensuring all our work is fully certified and Part P compliant. </p>              
-					<a href="#" class="btn btn-info" role="button">Read More</a>
-			</div>
-
-        </div>
-        <!-- /.row -->
-
-        <hr>
-
-        <!-- Footer -->
-        <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <p class="services">Copyright &copy; 2017 Lumelec Electrical Services <span style="font-size:15px; background-color: white; padding: 10px; border-radius:15px;color: #f16508; float:right;">Develeped by <b><a style="color: #f16508;" href="https://bearbyte.io">BearByte.io</a><span></b></p>
-                </div>
-            </div>
-            <!-- /.row -->
-        </footer>
-
-    </div>
-    <!-- /.container -->
-
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
-
-</body>
-
-</html>
+	
+   
