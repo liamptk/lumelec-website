@@ -92,19 +92,19 @@ $(document).ready(function(){
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#">About Us</a>
+                        <a href="about-us.php">About Us</a>
                     </li>
                     <li>
-                        <a href="#">Services</a>
+                        <a href="services.php">Services</a>
                     </li>
 					<li>
-                        <a href="#">Testimonials</a>
+                        <a href="testimonials.php">Testimonials</a>
                     </li>
 					<li>
-                        <a href="#">Gallery</a>
+                        <a href="gallery.php">Gallery</a>
                     </li>
                     <li>
-                        <a href="#">Contact Us</a>
+                        <a href="contact.php">Contact Us</a>
                     </li>
                 </ul>
             </div>
