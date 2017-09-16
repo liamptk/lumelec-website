@@ -37,9 +37,6 @@ include_once('header.php');
 					<a href="images/gallery/kitchen-installation-two.jpg" title="Kitchen Installation">
 						<img src="images/gallery/kitchen-installation-two.jpg" alt="Kitchen Installation">
 					</a>
-					<a href="images/gallery/kitchen-installation-three.jpg" title="Kitchen Installation">
-						<img src="images/gallery/kitchen-installation-three.jpg" alt="Kitchen Installation">
-					</a>
 					<a href="images/gallery/kitchen-installation-four.jpg" title="Kitchen Installation">
 						<img src="images/gallery/kitchen-installation-four.jpg" alt="Kitchen Installation">
 					</a>
