@@ -40,7 +40,7 @@ include_once('header.php');
 					<a href="images/gallery/kitchen-installation-four.jpg" title="Kitchen Installation">
 						<img src="images/gallery/kitchen-installation-four.jpg" alt="Kitchen Installation">
 					</a>
-					</br> </br>
+					</br>
 					<h3> Recent LED Lighting Installation of Large hall area  </h3>
 					<a href="images/gallery/led-installation.jpg" title="LED Installation">
 						<img src="images/gallery/led-installation.jpg" alt="LED Installation">
