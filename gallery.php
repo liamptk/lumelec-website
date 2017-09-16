@@ -48,9 +48,6 @@ include_once('header.php');
 					<a href="images/gallery/led-installation-two.jpg" title="LED Installation">
 						<img src="images/gallery/led-installation-two.jpg" alt="LED Installation">
 					</a>
-					<a href="images/gallery/led-installation-three.jpg" title="LED Installation">
-						<img src="images/gallery/led-installation-three.jpg" alt="LED Installation">
-					</a>
 				</div>
             </div>
 			<script>
