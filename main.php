@@ -6,7 +6,7 @@
             </div>
 
             <div class="col-sm-3 col-xs-6 text-center">
-                <a href="#">
+                <a href="installation.php">
                    <i class="fa fa-cogs fa-5x services-icon" aria-hidden="true"></i>
 				   <h2 class="services-icon"> Installation </h2>
 				   </a>
@@ -15,7 +15,7 @@
             </div>
 
             <div class="col-sm-3 col-xs-6 text-center">
-                <a href="#">
+                <a href="inspect.php">
                    <i class="fa fa-check fa-5x services-icon" aria-hidden="true"></i>
 				   <h2 class="services-icon"> Inspect & Test</h2>
 				   </a>
@@ -24,7 +24,7 @@
             </div>
 
             <div class="col-sm-3 col-xs-6 text-center">
-                <a href="#">
+                <a href="maintenance.php">
                    <i class="fa fa-flash fa-5x services-icon" aria-hidden="true"></i>
 				   <h2 class="services-icon"> Maintenance </h2>
 				   </a>
@@ -33,7 +33,7 @@
             </div>
 
             <div class="col-sm-3 col-xs-6 text-center">
-                <a href="#">
+                <a href="callout.php">
                    <i class="fa fa-moon-o fa-5x services-icon" aria-hidden="true"></i>
 				   <h2 class="services-icon"> 24 Hour Call Out </h2>
 				   </a>
