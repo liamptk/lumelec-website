@@ -28,6 +28,7 @@ include_once('header.php');
 					<a href="images/gallery/thermal-three.jpg" title="Thermal Imaging Electrical">
 						<img src="images/gallery/thermal-three.jpg" alt="Thermal Imaging Electrical">
 					</a>
+					</br> </br>
 					<a href="images/gallery/kitchen-installation.jpg" title="Kitchen Installation">
 						<img src="images/gallery/kitchen-installation.jpg" alt="Kitchen Installation">
 					</a>
@@ -40,13 +41,14 @@ include_once('header.php');
 					<a href="images/gallery/kitchen-installation-four.jpg" title="Kitchen Installation">
 						<img src="images/gallery/kitchen-installation-four.jpg" alt="Kitchen Installation">
 					</a>
+					</br> </br>
 					<a href="images/gallery/led-installation.jpg" title="LED Installation">
 						<img src="images/gallery/led-installation.jpg" alt="LED Installation">
 					</a>
-					<a href="images/gallery/led-installation-two.jpg.jpg" title="LED Installation">
+					<a href="images/gallery/led-installation-two.jpg" title="LED Installation">
 						<img src="images/gallery/led-installation-two.jpg" alt="LED Installation">
 					</a>
-					<a href="images/gallery/led-installation-three.jpg.jpg" title="LED Installation">
+					<a href="images/gallery/led-installation-three.jpg" title="LED Installation">
 						<img src="images/gallery/led-installation-three.jpg" alt="LED Installation">
 					</a>
 				</div>
