@@ -2,8 +2,8 @@
 
 body {
 	background-color: white;
-	background-image: url("images/doodles.png");
-	background-repeat: repeat-y;
+	background-image: url('/images/doodles.png');
+	background-repeat: repeat-y repeat-x;
 }
 
 h1 {
