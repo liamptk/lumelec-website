@@ -19,14 +19,14 @@ include_once('header.php');
 					<ol class="indicator"></ol>
 				</div>
 				<div id="links">
-					<a href="images/banana.jpg" title="Banana">
-						<img src="images/thumbnails/banana.jpg" alt="Banana">
+					<a href="images/gallery/thermal.jpg" title="Thermal Imaging Electrical">
+						<img src="images/gallery/thermal.jpg" alt="Thermal Imaging Electrical">
 					</a>
-					<a href="images/apple.jpg" title="Apple">
-						<img src="images/thumbnails/apple.jpg" alt="Apple">
+					<a href="images/gallery/thermal-two.jpg" title="Apple">
+						<img src="images/gallery/thermal-two.jpg" alt="Thermal Imaging Electrical">
 					</a>
-					<a href="images/orange.jpg" title="Orange">
-						<img src="images/thumbnails/orange.jpg" alt="Orange">
+					<a href="images/gallery/thermal-three.jpg" title="Thermal Imaging Electrical">
+						<img src="images/gallery/thermal-three.jpg" alt="Thermal Imaging Electrical">
 					</a>
 				</div>
             </div>
