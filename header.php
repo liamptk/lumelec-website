@@ -45,6 +45,10 @@ $(document).ready(function(){
 	<!-- Captcha -->
 	<script src='https://www.google.com/recaptcha/api.js'></script>
 	
+	<!-- Gallery -->
+	<link rel="stylesheet" href="css/blueimp-gallery.min.css">
+	<script src="js/blueimp-gallery.min.js"></script>
+	
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
