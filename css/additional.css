@@ -1,7 +1,7 @@
 /* Colours blue: #4ABDAC; orange: #FC4A1A yellow: #F7B733 clean: #DFDCE3 logo: #00b9ef logo-two: #009ce6 */
 
 body {
-	background-color: white;
+	background-color: red;
 	background-image: url('/images/doodles.png') !important;
 	background-repeat: repeat-y repeat-x !important;
 }
