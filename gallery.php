@@ -19,6 +19,7 @@ include_once('header.php');
 					<ol class="indicator"></ol>
 				</div>
 				<div id="links">
+					<h3> Examples of thermal imaging carried out on electrical condition reports </h3>
 					<a href="images/gallery/thermal.jpg" title="Thermal Imaging Electrical">
 						<img src="images/gallery/thermal.jpg" alt="Thermal Imaging Electrical">
 					</a>
@@ -29,6 +30,7 @@ include_once('header.php');
 						<img src="images/gallery/thermal-three.jpg" alt="Thermal Imaging Electrical">
 					</a>
 					</br> </br>
+					<h3> Recent Kitchen Install of down lights &  ceiling bluetooth speaker system </h3>
 					<a href="images/gallery/kitchen-installation.jpg" title="Kitchen Installation">
 						<img src="images/gallery/kitchen-installation.jpg" alt="Kitchen Installation">
 					</a>
@@ -42,6 +44,7 @@ include_once('header.php');
 						<img src="images/gallery/kitchen-installation-four.jpg" alt="Kitchen Installation">
 					</a>
 					</br> </br>
+					<h3> Recent LED Lighting Installation of Large hall area  </h3>
 					<a href="images/gallery/led-installation.jpg" title="LED Installation">
 						<img src="images/gallery/led-installation.jpg" alt="LED Installation">
 					</a>
